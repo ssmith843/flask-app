@@ -8,7 +8,7 @@ pool:
 
 variables:
   azureSubscription: 'Azure-Flask-Demo-Connection'  # Your service connection name
-  webAppName: 'flask-devops-demo-12345'             # Your Web App name
+  webAppName: 'flask-devops-demo-21712'             # Your Web App name
   pythonVersion: '3.10'
 
 stages:
